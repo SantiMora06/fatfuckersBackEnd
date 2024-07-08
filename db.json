@@ -1,338 +1,360 @@
 {
-	"gym": [
+	"workouts": [
 		{
 			"id": 1,
 			"exercise": "Bench Press",
 			"category": "Chest",
 			"picture": "",
-			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
+			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can",
+			"isGym": true
 		},
 		{
 			"id": 2,
 			"exercise": "Incline Bench Press",
 			"category": "Chest",
 			"picture": "",
-			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
+			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can",
+			"isGym": true
 		},
 		{
 			"id": 3,
 			"exercise": "Row",
 			"category": "Back",
 			"picture": "",
-			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
+			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can",
+			"isGym": true
 		},
 		{
 			"id": 4,
 			"exercise": "Row bar",
 			"category": "Back",
 			"picture": "",
-			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
+			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can",
+			"isGym": true
 		},
 		{
 			"id": 5,
 			"exercise": "Flys",
 			"category": "Shoulders",
 			"picture": "",
-			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
+			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can",
+			"isGym": true
 		},
 		{
 			"id": 6,
 			"exercise": "Biceps Curl",
 			"category": "Biceps",
 			"picture": "",
-			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
+			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can",
+			"isGym": true
 		},
 		{
 			"id": 7,
 			"exercise": "Biceps with z bar",
 			"category": "Biceps",
 			"picture": "",
-			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
+			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can",
+			"isGym": true
 		},
 		{
 			"id": 8,
 			"exercise": "Frech Press",
 			"category": "Triceps",
 			"picture": "",
-			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
+			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can",
+			"isGym": true
 		},
 		{
 			"id": 9,
 			"exercise": "Triceps with high pole",
 			"category": "Triceps",
 			"picture": "",
-			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
+			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can",
+			"isGym": true
 		},
 		{
 			"id": 10,
 			"exercise": "Leg Press",
 			"category": "Quadriceps",
 			"picture": "",
-			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
+			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can",
+			"isGym": true
 		},
 		{
 			"id": 11,
 			"exercise": "Calve Press",
 			"category": "Calves",
 			"picture": "",
-			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
+			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can",
+			"isGym": true
 		},
 		{
 			"id": 12,
 			"exercise": "Hip Trust",
 			"category": "Core",
 			"picture": "",
-			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
+			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can",
+			"isGym": true
 		},
 		{
 			"id": 13,
 			"exercise": "Biceps with low pole",
 			"category": "Biceps",
 			"picture": "",
-			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
+			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can",
+			"isGym": true
 		},
 		{
 			"id": 14,
 			"exercise": "Deadlift",
 			"category": "Back",
 			"picture": "",
-			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
+			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can",
+			"isGym": true
 		},
 		{
 			"id": 15,
 			"exercise": "Bench Press",
 			"category": "Chest",
 			"picture": "",
-			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
+			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can",
+			"isGym": true
 		},
 		{
 			"id": 16,
 			"exercise": "Incline Bench Press",
 			"category": "Chest",
 			"picture": "",
-			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
+			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can",
+			"isGym": true
 		},
 		{
 			"id": 17,
 			"exercise": "Bench Press",
 			"category": "Chest",
 			"picture": "",
-			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
+			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can",
+			"isGym": true
 		},
 		{
 			"id": 18,
 			"exercise": "Incline Bench Press",
 			"category": "Chest",
 			"picture": "",
-			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
+			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can",
+			"isGym": true
 		},
 		{
 			"id": 19,
 			"exercise": "Bench Press",
 			"category": "Chest",
 			"picture": "",
-			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
+			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can",
+			"isGym": true
 		},
 		{
 			"id": 20,
 			"exercise": "Incline Bench Press",
 			"category": "Chest",
 			"picture": "",
-			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
+			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can",
+			"isGym": true
 		},
 		{
 			"id": 21,
 			"exercise": "Bench Press",
 			"category": "Chest",
 			"picture": "",
-			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
+			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can",
+			"isGym": true
 		},
 		{
 			"id": 22,
 			"exercise": "Incline Bench Press",
 			"category": "Chest",
 			"picture": "",
-			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
+			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can",
+			"isGym": true
 		},
 		{
 			"id": 23,
 			"exercise": "Bench Press",
 			"category": "Chest",
 			"picture": "",
-			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
+			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can",
+			"isGym": true
 		},
 		{
 			"id": 24,
 			"exercise": "Incline Bench Press",
 			"category": "Chest",
 			"picture": "",
-			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
-		}
-	],
-	"bodyweight": [
+			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can",
+			"isGym": true
+		},
 		{
-			"id": 1,
+			"id": 25,
 			"exercise": "Push ups",
 			"category": "Chest",
 			"picture": "",
 			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
-			"id": 2,
+			"id": 26,
 			"exercise": "Tiger Push ups",
 			"category": "triceps",
 			"picture": "",
 			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
-			"id": 3,
+			"id": 27,
 			"exercise": "Skull crusher",
 			"category": "Triceps",
 			"picture": "",
 			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
-			"id": 4,
+			"id": 28,
 			"exercise": "Squats",
 			"category": "Quadriceps",
 			"picture": "",
 			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
-			"id": 5,
+			"id": 29,
 			"exercise": "Calve Raises",
 			"category": "Calves",
 			"picture": "",
 			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
-			"id": 6,
+			"id": 30,
 			"exercise": "Hindu Push ups",
 			"category": "Chest",
 			"picture": "",
 			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
-			"id": 7,
+			"id": 31,
 			"exercise": "Pike push ups",
 			"category": "Shoulders",
 			"picture": "",
 			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
-			"id": 8,
+			"id": 32,
 			"exercise": "Handstand push ups",
 			"category": "Shoulders",
 			"picture": "",
 			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
-			"id": 9,
+			"id": 33,
 			"exercise": "Slide Pulldowns",
 			"category": "Back",
 			"picture": "",
 			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
-			"id": 10,
+			"id": 34,
 			"exercise": "Lunges",
 			"category": "Quadriceps",
 			"picture": "",
 			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
-			"id": 11,
+			"id": 35,
 			"exercise": "Pistol Squads",
 			"category": "Quadriceps",
 			"picture": "",
 			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
-			"id": 12,
+			"id": 36,
 			"exercise": "Plank",
 			"category": "Core",
 			"picture": "",
 			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
-			"id": 13,
+			"id": 37,
 			"exercise": "Side Plank",
 			"category": "Core",
 			"picture": "",
 			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
-			"id": 14,
+			"id": 38,
 			"exercise": "Wide push ups",
 			"category": "Chest",
 			"picture": "",
 			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
-			"id": 15,
+			"id": 39,
 			"exercise": "Bulgarian split squat",
 			"category": "Quadriceps",
 			"picture": "",
 			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
-			"id": 16,
+			"id": 40,
 			"exercise": "Burpees",
 			"category": "Chest",
 			"picture": "",
 			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
-			"id": 17,
+			"id": 41,
 			"exercise": "Glute Kickback",
 			"category": "Quadriceps",
 			"picture": "",
 			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
-			"id": 18,
+			"id": 42,
 			"exercise": "Mountain Climbers",
 			"category": "Core",
 			"picture": "",
 			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
-			"id": 19,
+			"id": 43,
 			"exercise": "Diamond push up",
 			"category": "Chest",
 			"picture": "",
 			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
-			"id": 20,
+			"id": 44,
 			"exercise": "Biceps Push up",
 			"category": "Biceps",
 			"picture": "",
 			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
-			"id": 21,
+			"id": 45,
 			"exercise": "Frog Push up",
 			"category": "Chest",
 			"picture": "",
 			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
-			"id": 22,
+			"id": 46,
 			"exercise": "Reverse Snow Angel",
 			"category": "Back",
 			"picture": "",
 			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
-			"id": 23,
+			"id": 47,
 			"exercise": "Cat Cow",
 			"category": "Back",
 			"picture": "",
 			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
-			"id": 24,
+			"id": 48,
 			"exercise": "Isometric towel curl",
 			"category": "Biceps",
 			"picture": "",
