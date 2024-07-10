@@ -250,23 +250,23 @@
 		},
 		{
 			"id": 33,
-			"exercise": "Slide Pulldowns",
-			"category": "Back",
-			"picture": "",
+			"exercise": "Jumping Jacks",
+			"category": "Quadriceps",
+			"picture": "https://media.tenor.com/kfS30m9JRzsAAAAj/jumping-jacks-exercise.gif",
 			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
 			"id": 34,
 			"exercise": "Lunges",
 			"category": "Quadriceps",
-			"picture": "",
+			"picture": "https://media.tenor.com/HJ4R_oKIK7MAAAAM/oregon-state.gif",
 			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
 			"id": 35,
 			"exercise": "Pistol Squads",
 			"category": "Quadriceps",
-			"picture": "",
+			"picture": "https://media.tenor.com/LLrY48fuNpwAAAAM/pistols.gif",
 			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
@@ -280,70 +280,70 @@
 			"id": 37,
 			"exercise": "Side Plank",
 			"category": "Core",
-			"picture": "",
+			"picture": "https://media.tenor.com/iHwVFFKz0HgAAAAM/oblicuosms.gif",
 			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
 			"id": 38,
 			"exercise": "Wide push ups",
 			"category": "Chest",
-			"picture": "",
+			"picture": "https://media.tenor.com/Z8yzOBRkY_YAAAAM/push-ups-yuva.gif",
 			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
 			"id": 39,
 			"exercise": "Bulgarian split squat",
 			"category": "Quadriceps",
-			"picture": "",
+			"picture": "https://media.tenor.com/-nA6dX0Ws28AAAAM/b%C3%BAlgaro.gif",
 			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
 			"id": 40,
 			"exercise": "Burpees",
 			"category": "Chest",
-			"picture": "",
+			"picture": "https://media.tenor.com/NOekFoynEVQAAAAM/brazosms.gif",
 			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
 			"id": 41,
 			"exercise": "Glute Kickback",
 			"category": "Quadriceps",
-			"picture": "",
+			"picture": "https://media.tenor.com/4TaBu7jgWGoAAAAM/booty-firehydrant.gif",
 			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
 			"id": 42,
 			"exercise": "Mountain Climbers",
 			"category": "Core",
-			"picture": "",
+			"picture": "https://media.tenor.com/JByBVZCIFdsAAAAM/mountain-climbers.gif",
 			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
 			"id": 43,
 			"exercise": "Diamond push up",
 			"category": "Chest",
-			"picture": "",
+			"picture": "https://media.tenor.com/jSpAEd0PqeUAAAAM/%E0%A4%AA%E0%A5%81%E0%A4%B6%E0%A4%85%E0%A4%AA%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A4%BE-prince-pathania.gif",
 			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
 			"id": 44,
-			"exercise": "Biceps Push up",
+			"exercise": "Chin up",
 			"category": "Biceps",
-			"picture": "",
+			"picture": "https://media.tenor.com/G-a7AMKpQugAAAAM/pull-ups-nigel-sylvester.gif",
 			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
 			"id": 45,
-			"exercise": "Frog Push up",
+			"exercise": "Knee wide push up",
 			"category": "Chest",
-			"picture": "",
+			"picture": "https://media.tenor.com/W_cGMvJdlWQAAAAM/widegrip-pushups.gif",
 			"description": "Take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
 			"id": 46,
-			"exercise": "Reverse Snow Angel",
-			"category": "Back",
-			"picture": "",
+			"exercise": "Crunches",
+			"category": "Core",
+			"picture": "https://media.tenor.com/FrjdzAVl0joAAAAM/crunch-ab.gif",
 			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		},
 		{
@@ -357,7 +357,7 @@
 			"id": 48,
 			"exercise": "Isometric towel curl",
 			"category": "Biceps",
-			"picture": "",
+			"picture": "https://p9e5a9.p3cdn1.secureserver.net/wp-content/uploads/2021/12/towel-curls-dec21.jpg",
 			"description": "Set the bench on 45 degrees, take the bar with the grip of your shoulders, let the bar comes close to the chest and push it as far as you can"
 		}
 	]
